@@ -11,7 +11,7 @@ namespace {
 int main()
 {
     while (true) {
-        printf("Alive! \n");
+        printf("Hello Rodolphe & Chiara ! \n");
         ThisThread::sleep_for(PERIOD_MS / 2);
     }
 }
